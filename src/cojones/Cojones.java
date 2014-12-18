@@ -6,9 +6,7 @@
 
 package cojones;
 
-/**
- *
- * @author vesprada
+/**ESTO ES UNA MIERDAAAAAAAAAAAAAAAAAA
  */
 public class Cojones {
 
